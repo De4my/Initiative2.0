@@ -38,6 +38,8 @@ def bus_analysis_tool_wrapper(df):
             
             CAPACITY = 40  # max seats
 
+            broken_passenger = float(broken_bus["total passenger"].values[0])
+
             result = []
 
             for bus in df["bus id"].unique():
@@ -63,6 +65,7 @@ def bus_analysis_tool_wrapper(df):
                         "lat": current_latlon[0],
                         "lon": current_latlon[1],
                         "passenger": passenger,
+                        "broken_passenger": broken_passenger,
                         "available_seat": available_seat,
                         "distance_km": distance_km,
                         "is_broken": bus == bus_id
@@ -99,10 +102,37 @@ def create_bus_agent(df):
     - closest distance
     - lowest passenger load
     - not broken
+Your task:
 
-    Return:
-    - best bus_id
-    - reason
+1. FIRST try to find ONE bus that:
+   - is closest
+   - has enough available seats to take ALL passengers
+
+2. IF no single bus can handle all passengers:
+   - choose MULTIPLE buses (2 or more)
+   - their TOTAL available seats must be >= required passengers
+   - prioritize closest + least loaded buses
+
+    Rules:
+    - Never select broken bus
+    - Minimize number of buses used
+    - Prefer fewer buses over many
+
+    Return STRICT JSON:
+
+    IF one bus:
+    {
+    "type": "single",
+    "bus_id": "B2",
+    "reason": "..."
+    }
+
+    IF multiple buses:
+    {
+    "type": "multi",
+    "bus_ids": ["B2", "C1"],
+    "reason": "..."
+    }
     
     """
 

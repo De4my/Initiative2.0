@@ -53,7 +53,7 @@ if "stopped_buses" not in st.session_state:
     st.session_state.stopped_buses = {}  # {bus_id: seq}
 
 if "selected_bus" not in st.session_state:
-    st.session_state.selected_bus = None
+    st.session_state.selected_bus = []
 
 
 # =========================
@@ -97,13 +97,19 @@ with st.sidebar:
             response_text = result["messages"][-1].content
             st.session_state.agent_result = response_text
 
-            import re
-            match = re.search(r"[A-Z]\d+", response_text)
+            import json
 
-            if match:
-                st.session_state.selected_bus = match.group()
-            else:
-                st.session_state.selected_bus = None
+            try:
+                parsed = json.loads(response_text)
+
+                if parsed["type"] == "single":
+                    st.session_state.selected_buses = [parsed["bus_id"]]
+
+                elif parsed["type"] == "multi":
+                    st.session_state.selected_buses = parsed["bus_ids"]
+
+            except:
+                st.session_state.selected_buses = []
 
 
 # =========================
@@ -165,7 +171,7 @@ def render_map(seq):
             radius = 100
 
         # 🚑 SELECTED BUS → GREEN + BIGGER
-        if bus == st.session_state.get("selected_bus"):
+        if bus in st.session_state.get("selected_buses", []):
             color = [0, 255, 0]
             radius = 110
 
