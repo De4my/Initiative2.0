@@ -14,7 +14,6 @@ df = pd.read_excel("RouteA_Final.xlsx", sheet_name="Route_Coordinates")
 df2 = pd.read_excel("RouteA_Final.xlsx", sheet_name="Bus_Stops")
 
 
-#new variable
 # Clean route dataframe
 df.columns = df.columns.str.strip().str.lower()
 df = df.rename(columns={"latitude": "lat", "longitude": "lon"})
