@@ -14,10 +14,10 @@ def bus_analysis_tool_wrapper(df):
     @tool
     def bus_analysis_tool(query: str):
         """
-        Analyze bus data at a given sequence and return all bus states.
+        Analyze bus data and return all bus states.
 
         Input format:
-        "sequence=120,bus=A1"
+        "bus=A1"
 
         Returns:
         JSON list of buses with:
@@ -28,24 +28,22 @@ def bus_analysis_tool_wrapper(df):
         """
 
         try:
-            parts = query.split(",")
-            seq = int(parts[0].split("=")[1])
-            bus_id = parts[1].split("=")[1]
+            bus_id = query.split("=")[1]
 
            #get lat lon of the bus that broken down
-            broken_bus = df[(df["sequence"] == seq) & (df["bus id"] == bus_id)]
+            broken_bus = df[df["vehicle_id"] == bus_id]
             broken_busLatLong = (broken_bus["lat"].values[0], broken_bus["lon"].values[0])
             
             CAPACITY = 40  # max seats
 
-            broken_passenger = float(broken_bus["total passenger"].values[0])
+            broken_passenger = float(broken_bus["passenger"].values[0])
 
             result = []
 
-            for bus in df["bus id"].unique():
+            for bus in df["vehicle_id"].unique():
 
-                df_bus = df[df["bus id"] == bus]
-                row = df_bus[df_bus["sequence"] == seq]
+                df_bus = df[df["vehicle_id"] == bus]
+                row = df_bus
 
                 if not row.empty:
                     r = row.iloc[0]
@@ -57,7 +55,7 @@ def bus_analysis_tool_wrapper(df):
                     distance_km = geodesic(broken_busLatLong, current_latlon).km
 
                     # available seats
-                    passenger = float(r.get("total passenger", 0))
+                    passenger = float(r.get("passenger", 0))
                     available_seat = CAPACITY - passenger
 
                     result.append({
@@ -77,6 +75,74 @@ def bus_analysis_tool_wrapper(df):
             return f"Error: {str(e)}"
 
     return bus_analysis_tool
+
+
+def get_replacement_plan(df, broken_bus_id):
+    broken_bus = df[df["vehicle_id"] == broken_bus_id]
+    if broken_bus.empty:
+        raise ValueError(f"Bus '{broken_bus_id}' not found")
+
+    broken_row = broken_bus.iloc[0]
+    broken_latlon = (float(broken_row["lat"]), float(broken_row["lon"]))
+    required_passengers = float(broken_row.get("passenger", 0))
+    capacity = 40
+
+    candidates = []
+    for _, row in df.iterrows():
+        bus_id = row["vehicle_id"]
+        if bus_id == broken_bus_id:
+            continue
+
+        passenger = float(row.get("passenger", 0))
+        available_seat = capacity - passenger
+        if available_seat <= 0:
+            continue
+
+        distance_km = geodesic(
+            broken_latlon,
+            (float(row["lat"]), float(row["lon"]))
+        ).km
+
+        candidates.append({
+            "bus_id": bus_id,
+            "distance_km": distance_km,
+            "passenger": passenger,
+            "available_seat": available_seat,
+        })
+
+    candidates.sort(key=lambda x: (x["distance_km"], x["passenger"], -x["available_seat"]))
+
+    for bus in candidates:
+        if bus["available_seat"] >= required_passengers:
+            return {
+                "type": "single",
+                "bus_id": bus["bus_id"],
+                "reason": (
+                    f"Selected the nearest bus with enough capacity "
+                    f"({int(bus['available_seat'])} available seats)."
+                ),
+            }
+
+    selected = []
+    total_available = 0
+    for bus in candidates:
+        selected.append(bus)
+        total_available += bus["available_seat"]
+        if total_available >= required_passengers:
+            return {
+                "type": "multi",
+                "bus_ids": [bus["bus_id"] for bus in selected],
+                "reason": (
+                    f"No single bus had enough capacity, so the nearest combination of "
+                    f"{len(selected)} buses was selected with {int(total_available)} total available seats."
+                ),
+            }
+
+    return {
+        "type": "multi",
+        "bus_ids": [bus["bus_id"] for bus in selected],
+        "reason": "Not enough available capacity across the current fleet.",
+    }
 
 
 # =========================
@@ -118,7 +184,11 @@ Your task:
     - Minimize number of buses used
     - Prefer fewer buses over many
 
-    Return STRICT JSON:
+    Return STRICT JSON.
+    Output only one JSON object.
+    Do not use markdown.
+    Do not wrap the JSON in code fences.
+    Do not add explanation before or after the JSON.
 
     IF one bus:
     {

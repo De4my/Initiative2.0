@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+26032703,0,0,0,0,0,1,1,20260412,20260419
+26032701,1,1,1,1,0,0,0,20260413,20260423
+26032702,0,0,0,0,1,0,0,20260417,20260424

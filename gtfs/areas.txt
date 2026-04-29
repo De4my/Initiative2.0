@@ -1,0 +1,679 @@
+area_id,area_name
+area_90013908,Surau Al Ehsan
+area_90013478,Taman Perindustrian Krubong
+area_90013487,Jalan 1 Krubong Gate 2
+area_90013592,Masjid Bilal Bin Rabah Tanjong Kling
+area_90013346,Opp Hospital Melaka
+area_90013942,Taman Seri Cahaya
+area_90013621,Pejabat Pos Jalan Laksamana
+area_90013812,Pan Pacific Straptek
+area_90013540,Kampung Tengah Melaka
+area_90013823,Taman Tangga Batu 2
+area_90013469,Xepa - Soul Pattinson
+area_90013374,Klinik Kesihatan Air Keroh
+area_90013552,Kampung Pesaran Balik Buluk Klebang
+area_90013743,Balai Polis Durian Tunggal
+area_90013458,Opp Balai Panjang
+area_90013994,Sime Darby Plantation Jasin
+area_90013951,Kampung Batang Melaka 1
+area_90013997,Green One/Kampung Betis
+area_90013614,Taman Saujana Puri
+area_90013911,Scientex Durian Tunggal
+area_90013405,Opp Taman Merak
+area_90013888,Masjid Lama Batang Tiga
+area_90013984,Bulatan Kampung Air Barok
+area_90013738,Taman Cempaka Heights
+area_90013564,Kampung Bukit Rambai
+area_90013607,SK Pantai Kundor
+area_90013756,Taman Belimbing Indah
+area_90013706,Opp Mydin Pulau Sebang
+area_90013364,Opp SMK Tun Mahathir
+area_90013866,SK Pengkalan Balak
+area_90014482,SMKA Sultan Muhammad
+area_90013993,Taman Jarim Jaya
+area_90013353,Taman Mutiara Melaka
+area_90013547,Kompleks Pertanian Pulau Gadong
+area_90013848,Restoran Astana Puteh
+area_90013365,Taman Beringin Melaka
+area_90013490,Kedai Nasi Ayam Jalan Pantai
+area_90013383,Opp Mini Malaysia
+area_90014000,Kampung Baru Parit Keliling
+area_90013897,Opp Taman Gangsa
+area_90013558,Smk Klebang
+area_90013603,Masjid Km13
+area_90013588,SK Lereh
+area_90013986,Sjk(C) Yu Hsien
+area_90013481,Kampung Ladang Melaka
+area_90013719,Opp SMS Muzaffar Shah
+area_90013423,Kampung Bakar Batu
+area_90014012,Pejabat Pos Asahan
+area_90013571,Pejabat Mca Bukit Rambai
+area_90014475,Regal Park
+area_90013801,Muzium Warisan Naning Melaka
+area_90013583,Zill Golden Village
+area_90013877,Opp Taman Seri Bayu
+area_90013745,Pekan Durian Tunggal
+area_90013620,Jongker Walk/Stadhuys
+area_90013663,Taman Bukit Rumbia
+area_90013376,Mydin MITC
+area_90013407,JPJ Melaka
+area_90013988,Kampung Rim
+area_90013859,Jalan Haji Mad Arif
+area_90013973,Kampung Ayer Panas
+area_90013625,SMK Convent Melaka
+area_90013422,Kampung Lapang Bachang
+area_90013500,Opp SMK Malim
+area_90013933,Pasar Awam Batang Melaka
+area_90013515,Opp Taman Bertam Indah
+area_90013387,Taman Goodwood
+area_90013503,Opp Kampung Cheng
+area_90013944,SJK (C) Khiaw Wah
+area_90013836,Pekan Sungai Udang
+area_90013977,Sk Kesang Tua
+area_90013573,SMK Bukit Rambai
+area_90013725,Opp Ayer Keroh Heights
+area_90013570,MPKK Bukit Rambai
+area_90013868,Pantai Pengkalan Balak
+area_90013629,Kampung Ujong Pasir
+area_90013404,Taman Merak
+area_90013650,Paya Rumput
+area_90013362,Medan Selera batu Berendam
+area_90013935,Kampung Ayer Bangkong
+area_90014468,Opp SK Bukit Beruang
+area_90013785,Hospital Alor Gajah Luar
+area_90013711,Kampung Batu Hampar
+area_90013825,SK Tangga Batu
+area_90013347,Sirim Melaka
+area_90013724,Rumah Pangsa Murni
+area_90013456,Opp Taman Malim Indah
+area_90013642,Opp Rumah Panjang Paya Rumput
+area_90013519,Tanjung Minyak Perdana
+area_90013788,Kampung Paya Datok
+area_90013430,Taman Bachang Baru 1
+area_90013915,Taman Machap Bestari
+area_90013844,Taman Masjid Tanah
+area_90013852,Terminal Masjid Tanah Sentral
+area_90013827,Kampung Sungai Udang Jaya
+area_90013808,Dusun Acik Apau
+area_90013842,Kampung Tanah Merah Baru
+area_90014470,Opp SJK C Bukit Beruang
+area_90013411,Ins. Lat. Perindustrian Bukit Katil
+area_90013598,Kampung Lereh
+area_90013504,Kampung Cheng
+area_90013669,Gajah Mati Sungai Petai
+area_90013752,Kampung Harmoni
+area_90013580,Opp Balai Polis Batang Tiga
+area_90013541,Taman Sri Gadong
+area_90013818,Kampung Gelam
+area_90013511,Opp Rumah Seri Kenangan Taman Cheng
+area_90013578,Paya Luboh 3
+area_90013545,Rumah Awam 2 Pulau Gadong
+area_90013630,Padang Temu
+area_90013604,Medan Selera Pantai Puteri
+area_90013783,Pusat Perniagaan Jelatang
+area_90013574,MJ Construction
+area_90013443,Taman Angkasa Nuri
+area_90013659,Taman Rembia Cemerlang
+area_90013963,Opp Kampung Gapam
+area_90013601,Taman Pantai Puteri
+area_90013375,Opp Mydin MITC
+area_90013351,Kiara Apartment Taman Mutiara
+area_90013624,Dataran Pahlawan
+area_90013814,Taman Bukit Gedong 2
+area_90013424,Taman Widuri
+area_90013378,Opp Wisma Negeri
+area_90013741,Madrasah Nahdatul Hasanah
+area_90013781,Opp Pejabat Perikanan Daerah Alor Gajah
+area_90013417,Aeon Bandaraya Melaka
+area_90013770,Simpang Jalan Makmur
+area_90013863,Kolej Matrikulasi Melaka
+area_90013595,Kampung Balik Bukit 2
+area_90014476,Opp Regal Park
+area_90013599,Tanjung Samudera
+area_90013985,Terminal Jasin Sentral
+area_90013399,Pantai Hospital Meaka
+area_90013941,SJK (T) Pekan Tebong
+area_90013829,Surau Sungai Udang Jaya
+area_90013384,UTEM
+area_90013360,Opp SK Batu Berendam 1
+area_90013727,Ampang Steel
+area_90013537,Taman Melati
+area_90013851,Petronas Masjid Tanah
+area_90013584,Taman Panjang Impian
+area_90013442,Taman Merdeka Jaya
+area_90013871,Taman Balai Panjang
+area_90013397,Opp Kompleks Mahkamah Melaka
+area_90013489,Taman Krubong Perdana
+area_90013579,PPR Tangga Batu
+area_90013527,Persatuan Badminton Melaka
+area_90013821,Balai Raya Tangga Batu
+area_90013638,Pasar Besar Mbsb
+area_90013382,Mini Malaysia
+area_90013354,Opp Taman Mutiara Melaka
+area_90013701,Kampung Pulau Sebang
+area_90013931,SBPI Batang Melaka
+area_90013916,Kampung Machap Baru
+area_90013914,Klinik Kesihatan Machap Baru
+area_90013764,Masjid Ar Rahman
+area_90013548,Taman Bertam Perdana 1
+area_90013692,Sk Padang Sebang
+area_90013388,Perbadanan Perpustakaan Awam Melaka
+area_90013636,Opp Petronas Bachang
+area_90013359,SK Batu Berendam 1
+area_90013480,Opp Lt Hardware
+area_90013654,SK Rumbia
+area_90013555,Balai Polis Batang Tiga
+area_90013602,Puteri Qashrina Chalet
+area_90013434,Kampung Tengah 2
+area_90013772,Klinik Desa Melaka Pindah
+area_90013903,Kampung Bukit Balai
+area_90013358,Opp SK Batu Berendam 2
+area_90013729,Opp Dewan Kasturi Ayer Keroh
+area_90013699,Kampung Pulau Sebang Selatan 1
+area_90013786,Taman Ind. Kecik & Sederhana Paya Datok
+area_90013674,SMK Dato Dol Said
+area_90013759,Jalan Bunga Kesuang
+area_90013702,Taman Mahsuri
+area_90013895,Taman Seri Bayan
+area_90013957,Opp Seri Negeri
+area_90013667,Opp Rumah Awam Sungai Petai
+area_90013964,Kampung Gapam
+area_90013749,Jalan Pulau Melaka
+area_90013448,Taman Mas Merah
+area_90013517,Bertam Ulu Batu 10
+area_90013965,Anjung Gapam
+area_90013843,Kem Masjid Tanah
+area_90013862,Taman Bidara Indah
+area_90013649,Taman Paya Rumput Indah
+area_90013835,Plaza Sungai Udang
+area_90013572,Klinik Kesihatan Bukit Rambai
+area_90013784,Opp Hospital Alor Gajah Luar
+area_90013498,SK Malim
+area_90013968,SK Sri Bemban
+area_90013828,Kampung Bukit Salleh
+area_90013589,Kampung Tanjung Kling
+area_90013684,Ayer Panas Gadek
+area_90013874,Rumah Awam Bertam Malim
+area_90013381,Zoo Melaka
+area_90013872,SJK (C) Malim Melaka
+area_90013769,Taman Sri Tuah
+area_90013873,Opp SJK (C) Malim Melaka
+area_90013987,Masjid At Taqwa Kampung Rim
+area_90013731,Opp Mydin Ayer Keroh
+area_90014474,Taman Kerjasama
+area_90013972,Kampung Bemban
+area_90014471,SJK C Bukit Beruang
+area_90013641,Taman Paya Rumput Bistari
+area_90013832,Retoran Cahaya Bugis
+area_90013800,Klinik Desa Melekek
+area_90013703,Kampung Pulau Sebang Utara
+area_90013820,Pusat Kegiatan Masyarakat Tangga Batu
+area_90013355,Taman Ara
+area_90013415,Opp Lotus Melaka
+area_90014480,Opp Kolej Komuniti Bukit Berung
+area_90013556,Taman Muhibbah
+area_90013970,SMK Seri Bemban
+area_90013793,Opp Surau Kampung Solok Sinda Paya Datok
+area_90013619,Hotel Orkid
+area_90014483,Kampung Pengkalan Batu
+area_90013853,SK Bukit Beringin
+area_90013934,Hab Batang Melaka
+area_90013904,Kampung Gangsa
+area_90013453,Taman Mekar
+area_90013876,Klinik Desa Belimbing
+area_90013960,Taman Hang Tuah
+area_90013600,Medan Selera Pantai Rombang
+area_90014013,Taman Gunung Asahan
+area_90014478,MMU Melaka
+area_90013946,Klinik Desa Tebong
+area_90013352,Opp Kiara Apartment Taman Mutiara
+area_90013563,Rumah Awam Bukit Rambai
+area_90013937,Taman Negeri Melaka
+area_90013736,Pintu Gerbang Melaka
+area_90013967,Masjid Nurul Iman
+area_90013929,Kampung Jus
+area_90013966,Durable Farm & Resort Bemban
+area_90007918,Melaka Sentral
+area_90013696,SM Arab Al Asyraf
+area_90013671,Opp Sk Sungai Petai
+area_90013676,Kampung Kelemak
+area_90013805,Tanah Perkuburan Islam Taboh Naning
+area_90013366,Opp Taman Beringin Melaka
+area_90013450,Opp Airport Fire And Rescue
+area_90013664,Opp Taman Sungai Petai Bahagia
+area_90013776,Masjid Ubaidah Melaka
+area_90013861,Jalan Hamid Othman
+area_90013807,Rumah Asam Pedas Melaka
+area_90013655,Opp SK Rumbia
+area_90013777,Kampung Balai
+area_90013768,Kampung Pachor
+area_90013568,Kampung Paya Mengkuang Melaka
+area_90013734,Opp Galeri Lebah Melaka
+area_90013855,Kampung Londang Batu 19
+area_90013484,Taman 1 Krubong
+area_90013748,Taman Cempaka 3
+area_90013466,Opp Taman Bertam Mutiara
+area_90013462,Pasar Malim Jaya
+area_90013688,Taman Bukit Nangka
+area_90013894,Taman Seri Daya
+area_90013763,Kampung Parit Melaka
+area_90013363,SMK Tun Mahathir
+area_90013686,Ladang Kemuning
+area_90013723,Opp Rumah Pangsa Murni
+area_90013516,Taman Bertam Indah
+area_90013436,Klinik Desa Batu Beremdam
+area_90013742,Poliklinik Durian Tunggal
+area_90013803,Sultan Salai
+area_90013765,Kampung Beringin
+area_90014466,Pantai Hospital Melaka 2
+area_90013356,Opp Taman Ara
+area_90013550,Taman Mayfair
+area_90013860,SRA Londang
+area_90013446,Opp Taman Mekar
+area_90013716,Taman Sentosa Melaka
+area_90013391,Kampung Bukit Baru Dalam
+area_90013496,Taman Bertam Malim
+area_90013656,Taman Rembia Perkasa
+area_90013758,Kampung Bunga Mawar
+area_90013830,Bilik Gerakan Tangga Batu
+area_90013491,Taman Inang Sari
+area_90012965,Aeon Ayer Keroh
+area_90014001,Simpang Parit Keliling
+area_90013949,Taman Seri Hilir
+area_90013412,SK Kg Tun Razak
+area_90013530,SMK (P) Methodist
+area_90013613,Taman Saujana Seksyen 2
+area_90013816,SMK Kampung Gelam
+area_90013457,Taman Malim Indah
+area_90013444,Opp Taman Angkasa Nuri
+area_90013393,Balai Polis Bukit Baru
+area_90013779,Rumah Awam Seri Pengkalan
+area_90013920,Klinik Kesihatan Selandar
+area_90013744,Medan Selera Durian Tunggal
+area_90013928,Empangan Jus
+area_90013410,Kampung Desa Tersusun
+area_90014479,Kolej Komuniti Bukit Berung
+area_90013809,UniKL Melaka
+area_90013459,Balai Panjang
+area_90013639,Taman Pasir Puteh/Lorong Haji Salleh
+area_90013522,Melaka International School
+area_90013943,Kampung Tebong Km24
+area_90013753,Kampung Bunga Kertas
+area_90013543,Taman Pulau Gadong Jaya
+area_90013948,Balai Polis Tebong
+area_90013524,SMK Gajah Berang
+area_90013746,Taman Cempaka 2
+area_90013413,Opp SK Kg Tun Razakk
+area_90013379,MITC
+area_90013913,Kampung Simpang Garing
+area_90013485,Opp Taman 1 Krubong
+area_90013831,SK Sungai Udang
+area_90013483,Opp Taman Krubong Indah
+area_90013400,Taman Baru Bukit Katil
+area_90013810,ADTEC Melaka
+area_90013420,Plaza Hang Tuah 2
+area_90013634,CIMB Taman Kota Laksamana
+area_90013576,Taman Pizza Idaman
+area_90013467,Taman Bertam Mutiara
+area_90013730,Dewan Kasturi Ayer Keroh
+area_90013705,Opp Desa Pulau Sebang
+area_90013348,Opp Sirim Melaka
+area_90013681,Jalan Haji Mat Top
+area_90013609,Jalan Solok Haji Othman
+area_90013995,Pondak Polis Chabau
+area_90014477,Opp MMU Melaka
+area_90013980,Kampung Ayer Perah
+area_90013893,Opp Taman Seri Daya
+area_90014010,Kampung Bukit Asahan
+area_90013981,Kampung Ayer Perah 2
+area_90013707,Mydin Pulau Sebang
+area_90013896,Opp Taman Seri Bayan
+area_90013551,Taman Kenanga
+area_90013750,Kampung Tengah Durian Tunggal
+area_90013926,Taman Jus Perdana
+area_90013990,Kastu Car Wash Taman Rim
+area_90013792,Balai Raya JPKK Kampung Paya Datok
+area_90013505,Opp Taman Cheng Permai
+area_90013377,Wisma Negeri
+area_90013956,Opp World Youth Foundation
+area_90013644,Taman Seri Paya Rumput
+area_90013898,Taman Gangsa
+area_90013435,Lapangan Terbang Antarabangsa Melaka
+area_90013514,Balai Raya Kampung Cheng
+area_90013567,Taman Rambai Mesra
+area_90013909,Kampung Padang Kerbau
+area_90013799,Opp Klinik Desa Melekek
+area_90013865,Taman Perindustrian Masjid Tanah
+area_90013856,Kampung Londang 2
+area_90013910,LTK
+area_90013826,Kampung Paya Rumput Jaya
+area_90013666,Rumah Awam Sungai Petai
+area_90013471,Taman Teknologi Cheng
+area_90013839,Opp SMK Sungai Udang
+area_90013740,Taman Kenari Jaya
+area_90013900,Sra Gangsa
+area_90014472,Opp Taman Faridah
+area_90013921,Kampung Desa Mesra Sedanan
+area_90014008,Wemstar
+area_90013924,ILP Selandar
+area_90014003,Klinik Kesihatan Simpang Bekoh
+area_90013780,Kuil Sri Sithi Vinayagar Sri Bala Subram
+area_90013687,Kampung Bukit Nangka
+area_90013486,Opp Jalan 1 Krubong Gate 2
+area_90013380,Opp Zoo Melaka
+area_90013577,Paya Luboh 2
+area_90013369,Taman Putat Indah
+area_90013925,Balai Polis Selandar
+area_90013992,Bukit Katong
+area_90013774,Opp Masjid Ubaidah Melaka
+area_90013755,SK Belimbing Dalam
+area_90013961,Melaka Golf & Country Club
+area_90013495,Opp Taman Bertam Malim
+area_90013633,Hotel Coastal Park
+area_90013529,Taman Siantan / Masjid Tengkera
+area_90013538,Lagenda Condo
+area_90013791,Opp Balai Raya JPKK Kampung Paya Datok
+area_90013389,Taman Bahagia
+area_90013923,SMK Selandar
+area_90013553,Pantai Klebang
+area_90013950,Genting Plantation
+area_90013714,International College Of Yayasan Melaka/
+area_90013930,Taman Batang Melaka
+area_90013733,Galeri Lebah Melaka
+area_90013962,Opp Melaka Golf & Country Club
+area_90013902,Angsa Mas
+area_90013819,Klinik Kesihatan Seri Tanjung
+area_90013775,Simpang Jalan Ujong Padang 2
+area_90013440,Taman Merdeka
+area_90013697,Kampung Tanjung Rimau
+area_90013945,SK Ladang Kemuning
+area_90013587,Taman Spring Garden
+area_90013419,Wisma Air
+area_90013813,Taman Bukit Gedong 1
+area_90013959,Opp Taman Hang Tuah
+area_90013790,Masjid Al-Jauhari
+area_90013560,Taman Rambai Tengah
+area_90013473,Taman Sri Krubong/Goldsta
+area_90013605,Kampung Pantai Kundor
+area_90014484,Putra Height Melaka
+area_90013804,Kedai Makan Che Som 3 Beradik
+area_90013797,Opp SMK Naning
+area_90013713,Opp International College Of Yayasan Mel
+area_90014014,Masjid Kariah Asahan
+area_90013523,Persatuan Low Melaka
+area_90013652,Opp Taman Permai
+area_90013717,Opp Makmal Perubatan Pantai
+area_90013782,Pejabat Perikanan Daerah Alor Gajah
+area_90013869,Melaka Sentral 2
+area_90013497,Opp SK Malim
+area_90013628,Pangsapuri Pasir Mutiara
+area_90013428,Kampung Bachang Barat
+area_90013392,Sekolah Tinggi St David
+area_90013932,SK Batang Melaka
+area_90013732,Mydin Ayer Keroh
+area_90013350,Opp Texas Instrument
+area_90013533,Warung Hajjah Robiah
+area_90013794,Surau Kampung Solok Sinda Paya Datok
+area_90013978,Masjid Al Barakah Kampung Kesang Luar
+area_90013427,Masjid Ar-Razzaq
+area_90013802,Opp Muzium Warisan Naning Melaka
+area_90013586,Sekolah Tunas Bakti / Ocean Palm Condo
+area_90013402,Opp Masjid Sayyidina Ali
+area_90013954,Taman Seribu Bunga
+area_90013643,Rumah Panjang Paya Rumput
+area_90013953,Opp Taman Seribu Bunga
+area_90013521,SJK (C) Yok Bin
+area_90013542,SK Klebang Besar
+area_90013798,SMK Naning
+area_90013385,Taman Sin Hoe
+area_90013870,Opp Taman Balai Panjang
+area_90013917,Taman Rekreasi Datuk Wira Poh Ah Tiam
+area_90013562,Kampung Setulang Daing
+area_90013421,Medan Selera Tun Ali
+area_90013532,SK Tengkera 1 & 2
+area_90013927,Kolej Komuniti Selandar
+area_90013694,Kampung Tanjong Rimau Luar
+area_90013789,Opp Masjid Al-Jauhari
+area_90013658,Opp Taman Rembia Cemerlang
+area_90013899,Opp Sra Gangsa
+area_90013712,Opp Kampung Batu Hampar
+area_90013447,Opp Taman Mas Merah
+area_90013455,Smjk Tinggi Cina Melaka
+area_90013841,Akademi Rela Malaysia Sungai Udang
+area_90013845,HRSB Holding
+area_90014467,Opp Pantai Hospital Melaka 2
+area_90013975,Kesang Damai
+area_90013726,Ayer Keroh Heights
+area_90014005,Simpang Bekoh
+area_90013940,Ladang Tebong
+area_90013767,Pekan Pantai Belimbing
+area_90013582,Seri Bayan Condominium
+area_90013433,Taman Bachang Baru 2
+area_90013632,Taman Kampong Atap
+area_90013824,Masjid Batu 10 Tangga Batu
+area_90013675,Balai Raya Jkkk Kelemak Jaya
+area_90013912,The Touch City
+area_90013395,Opp Aeon Ayer Keroh
+area_90013919,Kampung Bera Bukit Sedanan
+area_90013439,Opp Taman Merdeka
+area_90013611,Klinik Kesihatan Tangga Batu
+area_90014473,Taman Faridah
+area_90013623,Muzium Samudera
+area_90013396,Kompleks Mahkamah Melaka
+area_90014015,Taman Seri Asahan
+area_90013983,Kampung Air Barok 2
+area_90013892,Opp Medan Selera Batu Berendam
+area_90013406,Opp JPJ Melaka
+area_90013709,Pekan Tampin
+area_90013631,Taman Jaya Padang Temu
+area_90013559,Kampung Rambai Tengah
+area_90013849,Tomyam Dzarfan
+area_90013846,Seri Emas Seafood
+area_90013617,Petron Jalan Taming Sari
+area_90013677,Terminal Alor Gajah Sentral
+area_90013939,Kampung Tebong
+area_90013464,Perindustrian Malim Jaya
+area_90014006,Taman Kasturi
+area_90013368,Opp Mango Float Royale
+area_90013476,Masjid As Salam
+area_90013449,Airport Fire And Rescue
+area_90013520,Plaza Hang Tuah 1
+area_90013622,Menara Tamingsari
+area_90013637,Security Force Bachang
+area_90013840,SMK Sungai Udang
+area_90013401,Opp Taman Baru Bukit Katil
+area_90013016,Hospital Melaka
+area_90013591,Tanjung Kling
+area_90013704,Desa Pulau Sebang
+area_90013864,Kampung Air Hitam Darat
+area_90013590,Surau Tengah
+area_90013952,Kampung Batang Melaka 2
+area_90013546,Taman Gadong Bahagia
+area_90013833,SJK (C) Sungai Udang
+area_90013936,Kampung Machap
+area_90013761,Kampung Harmony Belimbing Dalam 2
+area_90013367,Mango Float Royale
+area_90013425,Kampung Baroh
+area_90013499,SMK Malim
+area_90013373,Kampung Baru Ayer Keroh
+area_90013461,Opp Malim Jaya
+area_90013452,Opp Taman Seri Songket
+area_90013665,Taman Sungai Petai Bahagia
+area_90013760,Kampung Harmony Belimbing Dalam 1
+area_90013445,Opp Taman Angkasa Nuri 2
+area_90013608,Rumah Anak-Anak Yatim Sultan Salahuddin
+area_90013971,Taman Bemban
+area_90013974,Taman Kesang Jaya
+area_90013612,Taman Tangga Batu
+area_90013585,SJK(C) Ek Te
+area_90013647,Opp Rumah Awam Paya Rumput
+area_90013651,Opp Paya Rumput
+area_90013357,SK Batu Berendam 2
+area_90013901,Kampung Tualang
+area_90013695,Masjid Al Qaniteen
+area_90013465,Opp Perindustrian Malim Jaya
+area_90013408,Taman Puncak Bukit Katil
+area_90013460,Malim Jaya
+area_90013371,Opp Tokong Yui Yang Keong
+area_90013796,Opp Taman Sri Melekek
+area_90013475,Taman Sri Krubong 2
+area_90013673,Taman Perindustrian Kelemak
+area_90013640,Opp Taman Paya Rumput Bistari
+area_90014002,Selera Simpang Bekoh
+area_90013958,Seri Negeri
+area_90013875,Opp Rumah Awam Bertam Malim
+area_90013418,Opp Aeon Bandaraya Melaka
+area_90013691,Masjid Al-Najihin Padang Sebang
+area_90013811,Kampung Solok Biak
+area_90013488,Opp Taman Krubong Perdana
+area_90013454,Opp Smjk Tinggi Cina Melaka
+area_90013815,Kampung Bukit Darat
+area_90013349,Texas Instrument
+area_90013737,Serama Camps & Resort
+area_90013646,Rumah Awam Paya Rumput
+area_90013463,Opp Pasar Malim Jaya
+area_90013682,Kampung Buloh Cina
+area_90014016,Kampung Baru On Lock
+area_90013566,Taman Rambai Mutiara
+area_90013635,Rumah Pangsa Hilir Kota
+area_90013627,Kampung Bandar Hilir/Jalan Imam Jh Mohd 
+area_90013806,Warong Asam Pedas P. Ramli
+area_90013906,Smk Durian Tunggal
+area_90013451,Taman Seri Songket
+area_90013657,Opp Taman Rembia Perkasa
+area_90013670,Sk Sungai Petai
+area_90013513,Opp Balai Raya Kampung Cheng
+area_90013536,Oriental Melaka Straits Medical Centre
+area_90013979,Kampung Kesang Luar
+area_90013557,Dhammacakka Buddist Vihara
+area_90013429,Taman Pasir Puteh
+area_90013728,Opp Ampang Steel
+area_90013747,Kampung Pulau 
+area_90013762,Kampung Harmony Belimbing Dalam 3
+area_90013739,Jalan Durian Tunggal
+area_90013838,Melaka Tropical Fruit Farm
+area_90013539,Masjid Saad Ibni Abi Waqqas
+area_90013982,Kampung Air Barok 1
+area_90013771,Simpang Jalan Wajib
+area_90013708,Stesen Keretapi Pulau Sebang
+area_90013685,SK Ganun
+area_90013751,Tadika Jaim Kampung Pulau
+area_90013837,Pejabat Pos Sungai Udang
+area_90013416,Lotus Melaka
+area_90013432,Kampung Tengah 1
+area_90013715,Opp Taman Sentosa Melaka
+area_90013610,Kawasan Perindustrian Tangga Batu
+area_90013597,Kampung Pengkalan Perigi 
+area_90013626,Pangsapuri Seri Bukit
+area_90013976,Kampung Kesang Jaya
+area_90014469,SK Bukit Beruang
+area_90013501,Opp Taman Cheng Utama
+area_90013403,Masjid Sayyidina Ali
+area_90013680,Klinik Desa Pegoh
+area_90013678,Taman Seri Bayu
+area_90013472,Nsk Trade City (Melaka)
+area_90013438,Taman Datuk Tamby Chik Karim
+area_90013470,Aik Cheong Beverage
+area_90013822,Taman Tangga Batu 1
+area_90013698,Kampung Pulau Sebang Selatan 2
+area_90013679,Kampung Jelatang
+area_90013710,Terminal Bas Tampin
+area_90013905,Kampung Baru Bukit Balai
+area_90013593,Kampung Kelongkong
+area_90013528,Balai Polis Tengkera
+area_90014007,Surau Kampung Sungai Dua
+area_90013479,Lt Hardware
+area_90013858,Tabika Kemas Kampung Londang
+area_90013653,Taman Permai
+area_90013502,Taman Cheng Utama
+area_90013549,Taman Bertam Perdana 2
+area_90013947,Pekan Kampung Tebong
+area_90013660,Opp Taman Rembia Jaya
+area_90013493,Opp Taman Sri Krubong/Goldsta
+area_90013426,Jalan Salmah Baba
+area_90014011,Rtc Asahan
+area_90013718,Makmal Perubatan Pantai
+area_90013509,Taman Cheng Perdana
+area_90013618,Hotel Ibis
+area_90013398,Opp Pantai Hospital Melaka
+area_90013778,Taman Melaka Pindah
+area_90013689,Taman Sebang Mutiara
+area_90013690,Taman Sebang Gemilang
+area_90013437,Opp Taman Datuk Tamby Chik Karim
+area_90013508,Gerai MBMB Taman Cheng Baru
+area_90013721,Mamee Ayer Keroh
+area_90014009,TK Tani
+area_90013693,Kampung Padang Sebang
+area_90013361,Coconut Shake Batu Berendam
+area_90013477,Kampung Tampoi
+area_90013431,Security Force
+area_90013938,Kampung Tebong Division
+area_90013795,Taman Sri Melekek
+area_90013575,Paya Luboh 1
+area_90013482,Taman Krubong Indah
+area_90013370,Opp Taman Putat Indah
+area_90013683,Balai Raya Kampung Gadek
+area_90013857,Dewan Londang
+area_90013834,Kampung Baru Sungai Udang
+area_90013526,SJK(T) Melaka (Kubu)
+area_90013817,SK Kampung Gelam
+area_90013518,Opp Bertam Ulu Batu 10
+area_90013492,Opp Taman Teknologi Cheng
+area_90013535,Kuih Keria Hajah Rahmah
+area_90013991,SJK (C) Pay Chuin
+area_90013996,Tanah Perkuburan Kristian
+area_90013648,Opp Taman Paya Rumput Indah
+area_90013922,Pekan Selandar
+area_90013616,RTM Melaka
+area_90013907,Durian Tunggal
+area_90013722,Opp Mamee Ayer Keroh
+area_90013918,Kampung Ayer Pasir
+area_90013645,Opp Taman Seri Paya Rumput
+area_90013474,Umw Toyota
+area_90014004,Sjk(C) Simpang Bekoh
+area_90013989,Dodol Warisan Abah Taman Rim
+area_90013955,World Youth Foundation
+area_90013581,Marina Point
+area_90013757,Jalan Bunga Anggerik
+area_90013414,Taman Bukit Katil Damai 2
+area_90013554,Opp Pantai Klebang
+area_90013534,Kuih Keria Haji Jalil
+area_90013850,Surau Ad Diniah Kampung Masjid Tanah
+area_90013525,Jalan Ong Kim Wee
+area_90013615,Opp Mahkota Medical Centre
+area_90013512,Rumah Seri Kenangan Taman Cheng
+area_90013700,Kampung Pulau Sebang Selatan 3
+area_90013594,Kampung Hailam
+area_90013999,Chabau Estate
+area_90013606,Pantai Kundor
+area_90013998,Masjid Al Hidayah
+area_90013565,Maahad Tahfiz Kasyfu Al Ulum
+area_90013531,Kampong Sembilan
+area_90013787,Hospital Alor Gajah
+area_90013544,Simpang Lorong Pokok Manggis
+area_90013847,Kampung Pulau Semut
+area_90013441,Opp Taman Merdeka Jaya
+area_90013394,Jabatan Pendidikan Melaka Bukit Baru
+area_90013409,Kolej Vokasional Melaka Tengah
+area_90013969,Kompleks Japerun Bemban
+area_90013661,Taman Rembia Jaya
+area_90013506,Taman Cheng Permai
+area_90013854,Kampung Londang
+area_90013867,Giat Mara Pengkalan Balak
+area_90013507,Opp Gerai MBMB Taman Cheng Baru
+area_90013510,Opp Taman Cheng Perdana
+area_90013561,Masjid Al Falah
+area_90013372,Tokong Yui Yang Keong
+area_90013720,SMS Muzaffar Shah
+area_90013390,Pangsapuri Seri Siantan
+area_90013773,SK Melaka Pindah
+area_90013662,Opp Taman Bukit Rumbia
+area_90013569,Kampung Daya Wawasan
+area_90013494,Opp Nsk Trade City (Melaka)
+area_90013754,Simpang Jalan Bunga Ros
+area_90013766,Jalan Imam Abu
+area_90013596,Kampung Balik Bukit 1
+area_90013735,Opp Pintu Gerbang Melaka
+area_90013672,Taman Sri Kelemak
+area_90013668,Opp Gajah Mati Sungai Petai
+area_90013468,Pos Logistic

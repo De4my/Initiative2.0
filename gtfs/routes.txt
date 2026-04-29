@@ -1,0 +1,23 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+M100CWLMYMK,CWLMYMK,M100,Bandaraya Melaka Feeder,M100: Bandaraya Melaka Feeder,3,,FFF300,111111
+M101CWLMYMK,CWLMYMK,M101,Pasar Melaka Feeder,M101: Pasar Melaka Feeder,3,,FFF300,111111
+M10ACWLMYMK,CWLMYMK,M10A,Melaka Sentral - MITC,M10A: Melaka Sentral - MITC,3,,FFF300,111111
+M10BCWLMYMK,CWLMYMK,M10B,Melaka Sentral - MITC - Via Jalan Pengkalan Batu & AEON Melaka,M10B: Melaka Sentral - MITC - Via Ja,3,,FFF300,111111
+M11CWLMYMK,CWLMYMK,M11,Melaka Sentral - Bukit Katil / Taman Saujana Permai,M11: Melaka Sentral - Bukit Katil /,3,,FFF300,111111
+M12CWLMYMK,CWLMYMK,M12,Melaka Sentral - Airport Batu Berendam / Angkasa Nuri,M12: Melaka Sentral - Airport Batu ,3,,FFF300,111111
+M13CWLMYMK,CWLMYMK,M13,Melaka Sentral - Taman Inang Sari,M13: Melaka Sentral - Taman Inang S,3,,FFF300,111111
+M14CWLMYMK,CWLMYMK,M14,Melaka Sentral - Bertam Ulu / Tanjung Minyak Perdana,M14: Melaka Sentral - Bertam Ulu / ,3,,FFF300,111111
+M15CWLMYMK,CWLMYMK,M15,Melaka Sentral - Pulau Gadong,M15: Melaka Sentral - Pulau Gadong,3,,FFF300,111111
+M16CWLMYMK,CWLMYMK,M16,Melaka Sentral - Paya Luboh,M16: Melaka Sentral - Paya Luboh,3,,FFF300,111111
+M17CWLMYMK,CWLMYMK,M17,Melaka Sentral - Tangga Batu,M17: Melaka Sentral - Tangga Batu,3,,FFF300,111111
+M20CWLMYMK,CWLMYMK,M20,Melaka Sentral - Tampin via Alor Gajah,M20: Melaka Sentral - Tampin via Al,3,,FFF300,111111
+M20XCWLMYMK,CWLMYMK,M20X,Terminal Alor Gajah Sentral - Melaka Sentral,M20X: Terminal Alor Gajah Sentral - ,3,,FFF300,111111
+M21CWLMYMK,CWLMYMK,M21,Melaka Sentral - Tampin via Alor Gajah Durian Tunggal,M21: Melaka Sentral - Tampin via Al,3,,FFF300,111111
+M21XCWLMYMK,CWLMYMK,M21X,Terminal Alor Gajah Sentral - Melaka Sentral - Durian Tunggal,M21X: Terminal Alor Gajah Sentral - ,3,,FFF300,111111
+M22CWLMYMK,CWLMYMK,M22,Melaka Sentral - Bandar Vendor / UniKL,M22: Melaka Sentral - Bandar Vendor,3,,FFF300,111111
+M23CWLMYMK,CWLMYMK,M23,Melaka Sentral - Masjid Tanah / Pengkalan Balak,M23: Melaka Sentral - Masjid Tanah ,3,,FFF300,111111
+M23XCWLMYMK,CWLMYMK,M23X,Terminal Masjid Tanah Sentral - Melaka Sentral,M23X: Terminal Masjid Tanah Sentral ,3,,FFF300,111111
+M30CWLMYMK,CWLMYMK,M30,Melaka Sentral - Batang Melaka via Selandar,M30: Melaka Sentral - Batang Melaka,3,,FFF300,111111
+M31CWLMYMK,CWLMYMK,M31,Melaka Sentral - Batang Melaka via Tebong,M31: Melaka Sentral - Batang Melaka,3,,FFF300,111111
+M32CWLMYMK,CWLMYMK,M32,Melaka Sentral - Jasin,M32: Melaka Sentral - Jasin,3,,FFF300,111111
+M33CWLMYMK,CWLMYMK,M33,Jasin - Taman Seri Asahan,M33: Jasin - Taman Seri Asahan,3,,FFF300,111111
